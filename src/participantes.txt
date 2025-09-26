@@ -4,4 +4,4 @@ Nombre: Jorge Color Favorito: Naranja
 Nombre: Andrés Color Favorito: Azul
 Nombre: Nagel Color Favorito: Morado
 Nombre: Fabian Color Favorito: Negro 
-
+Nombre: Elena Color Favorito: Azul 
