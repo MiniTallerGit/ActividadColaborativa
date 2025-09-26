@@ -1,4 +1,6 @@
 Nombre: Kendy Color Favorito: Rojo
 Nombre: Raquel Color Favorito: Azul
 Nombre: Jorge Color Favorito: Naranja
+Nombre: Andrés Color Favorito: Azul
 Nombre: Nagel Color Favorito: Morado
+
