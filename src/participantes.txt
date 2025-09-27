@@ -9,7 +9,7 @@ Nombre: Patrick Color Favorito: Rosado
 Nombre: Daniel Color Favorito: Azul
 Nombre: Samuel Color Favorito Rojo
 Nombre: Manuel Color Favorito Azul
-bash: línea 1: Push: orden no encontrada
+
 
 
 
