@@ -6,3 +6,5 @@ Nombre: Nagel Color Favorito: Morado
 Nombre: Fabian Color Favorito: Negro 
 Nombre: Elena Color Favorito: Azul 
 Nombre: Patrick Color Favorito: Rosado
+Nombre: Daniel Color Favorito: Azul
+
