@@ -8,5 +8,8 @@ Nombre: Elena Color Favorito: Azul
 Nombre: Patrick Color Favorito: Rosado
 Nombre: Daniel Color Favorito: Azul
 Nombre: Samuel Color Favorito Rojo
+Nombre: Manuel Color Favorito Azul Rey
+Nombre: Fernando color Favorito negro oscuro
 Nombre: Manuel Color Favorito Azul 
+
 
