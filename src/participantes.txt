@@ -10,3 +10,5 @@ Nombre: Daniel Color Favorito: Azul
 Nombre: Samuel Color Favorito Rojo
 Nombre: Manuel Color Favorito Azul Rey
 Nombre: Milton Color Favorito Blanco claro
+Nombre: Fernando color Favorito negro oscuro
+Nombre: Manuel Color Favorito Azul 
