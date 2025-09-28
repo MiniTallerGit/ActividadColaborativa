@@ -12,3 +12,4 @@ Nombre: Manuel Color Favorito Azul Rey
 Nombre: Milton Color Favorito Blanco claro
 Nombre: Fernando color Favorito negro oscuro
 Nombre: Manuel Color Favorito Azul 
+Nombre: Carlosgm Color Favorito Verde
