@@ -9,3 +9,4 @@ Nombre: Patrick Color Favorito: Rosado
 Nombre: Daniel Color Favorito: Azul
 Nombre: Samuel Color Favorito Rojo
 Nombre: Manuel Color Favorito Azul Rey
+Nombre: Milton Color Favorito Blanco claro
