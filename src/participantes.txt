@@ -14,3 +14,4 @@ Nombre: Fernando color Favorito negro oscuro
 Nombre: Manuel Color Favorito Azul 
 Nombre: Carlosgm Color Favorito Verde
 Nombre: Quillo Color Favorito Amarillo
+Nombre: Jean Color Favorito: Gris
